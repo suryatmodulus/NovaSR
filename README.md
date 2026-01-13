@@ -8,6 +8,10 @@
 
 This is the repository for NovaSR, a tiny 50kb audio upsampling model that upscales muffled 16khz audio into clear and crisp 48khz audio at speeds over 3500x realtime. 
 
+
+https://github.com/user-attachments/assets/c81f87eb-f6de-4bf9-85bd-dfc9a223a865
+
+
 ### Key benefits
 * Speed: Can reach 3600x realtime speed on a single a100 gpu.
 * Quality: On par with models 5,000x larger.
